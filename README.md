@@ -36,7 +36,8 @@ Checkout [awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients/)
 * [Setup Claude Desktop App to Use a SQLite Database](https://youtu.be/wxCCzo9dGj0)
 
 ## Community
-
+- [NeuroNest](https://neuronest.cc/)
+- AI coding and agent development platform for building, managing, and optimizing AI-powered development workflows.
 * [r/mcp Reddit](https://www.reddit.com/r/mcp)
 * [Discord Server](https://glama.ai/mcp/discord)
 
